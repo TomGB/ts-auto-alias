@@ -1,0 +1,14 @@
+https://github.com/microsoft/TypeScript/wiki/Using-the-Compiler-API
+https://blog.scottlogic.com/2015/01/20/typescript-compiler-api.html
+https://convincedcoder.com/2019/01/19/Processing-TypeScript-using-TypeScript/
+https://stackoverflow.com/questions/2496710/writing-files-in-node-js
+https://stackoverflow.com/questions/51353988/typescript-ast-transformation-removes-all-blank-lines
+https://github.com/dsherret/ts-morph/issues/157
+https://github.com/microsoft/TypeScript/issues/20506
+https://github.com/vvakame/typescript-formatter/blob/master/lib/formatter.ts#L21
+https://stackoverflow.com/questions/43959314/formatting-printed-code-with-typescript-compiler-api/46438669#46438669
+https://github.com/microsoft/TypeScript/issues/20509
+https://github.com/vvakame/typescript-formatter
+https://stackoverflow.com/questions/43959314/formatting-printed-code-with-typescript-compiler-api
+https://help.github.com/en/github/authenticating-to-github/telling-git-about-your-signing-key
+https://help.github.com/en/github/authenticating-to-github/adding-a-new-gpg-key-to-your-github-account
