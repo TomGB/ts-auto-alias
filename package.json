@@ -1,0 +1,19 @@
+{
+  "name": "auto-alias",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "node script.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^14.0.1",
+    "ts-empty-line-encoder": "^2.2.0",
+    "ts-node": "^8.10.1",
+    "typescript": "^3.9.2",
+    "typescript-parser": "^2.6.1"
+  },
+  "type": "module"
+}
